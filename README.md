@@ -1,6 +1,6 @@
 # Customer-Churn-Analysis
 
-Tools: Power BI | DAX
+Tools: Power BI | DAX | Data Modeling | Data Visualization
 
 🔹 Project Overview
 This project analyzes customer churn for a bank to identify key factors influencing customer retention and attrition. The dashboard provides insights into demographics, activity status, credit card ownership, account balance, products, and credit scores.
