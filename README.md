@@ -1,4 +1,4 @@
-# Customer-Churn-Analysis
+# Bank-Customer-Churn-Analysis
 
 Tools: Power BI | DAX | Data Modeling | Data Visualization
 
